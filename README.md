@@ -19,6 +19,7 @@ This project is a C++ OpenGL-based simulation of a village, featuring day and ni
 - glut.h (OpenGL Utility Toolkit)
 - cmath (for mathematical operations)
 - winmm.lib (for multimedia functions)
+
 Also, go to **Settings > Compiler > Linker settings** and add the following flag:
 ```bash
 -lwinmm
@@ -33,6 +34,7 @@ Press *F9* or go to **Build > Build** and Run to compile and run the project.
 - (`d/D` key): Switch to Day Mode.
 - (`n/N` Key): Switch to Night Mode.
 - (`←/→` Keys): Navigate the small boat between the left and right land areas.
+- (`Esc` key): Exit the program.
 
 ## Dependencies
 This project requires the following libraries and components:
