@@ -43,6 +43,10 @@ This project requires the following libraries and components:
 - C++: The project is written in C++, with specific dependencies on windows.h for multimedia handling (sound and music).
 
 ## Demo Video
-![Demo Video](https://github.com/Sajjad2108/village-visualization-GLUT/commit/7e07684179fb012dc54b2be4db21786db5390d8a)
+[![Demo Video](https://img.youtube.com/vi/zhH2A8dBz9M/0.jpg)](https://youtu.be/zhH2A8dBz9M)
+
+
+
+
 
 
