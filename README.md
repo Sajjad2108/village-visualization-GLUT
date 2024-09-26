@@ -43,7 +43,7 @@ This project requires the following libraries and components:
 - C++: The project is written in C++, with specific dependencies on windows.h for multimedia handling (sound and music).
 
 ## Demo Video
-[![Demo Video](https://img.youtube.com/vi/zhH2A8dBz9M/0.jpg)](https://youtu.be/zhH2A8dBz9M)
+[![Demo Video](https://img.youtube.com/vi/zhH2A8dBz9M/0.jpg)](https://www.youtube.com/watch?v=zhH2A8dBz9M)
 
 
 
